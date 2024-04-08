@@ -1,0 +1,26 @@
+.cabeçalho_lista {
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 37px 0;
+    font-size: 24px;
+    }
+    
+    .cabeçalho_imagem {
+    width: 76%;
+    height: 85%;
+    }
+    
+    .itens{
+    display: inline-block;
+    margin: 0 14px;
+    font-size: 12px;
+    
+    }
+    
+    * {
+    margin: 0 16px;
+    padding: 47px 0;
+    }
